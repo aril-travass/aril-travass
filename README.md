@@ -85,6 +85,16 @@ Hello world! 👋 I'm **Aril Travass**, a passionate **DevOps & Cloud Engineer**
   <img src="https://streak-stats.demolab.com/?user=aril-travass&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=00D2FF" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aril-travass/aril-travass/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aril-travass/aril-travass/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/aril-travass/aril-travass/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### 🚀 Highlighted Repositories
